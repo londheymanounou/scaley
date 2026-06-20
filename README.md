@@ -2,8 +2,6 @@
 
 Application Java/Swing qui déduit la (ou les) **tonalité(s)** d'un morceau à partir des notes utilisées, et qui sait aussi afficher n'importe quelle gamme sur un clavier de piano.
 
-Projet pensé pour rester dans le périmètre **1ère année de BUT Informatique** (pas de lambdas, streams ni généricité poussée), organisé en **MVC**.
-
 ## Fonctionnalités
 
 - **Clavier de piano interactif** (un octave) : clic pour (dé)sélectionner une note, ou **glisser** pour en « peindre » plusieurs d'un coup.
