@@ -60,8 +60,3 @@ Quelques gammes propriétaires (style Native Instruments) n'ont pas de définiti
 - Major Bulgarian
 - Major Polymode
 - Minor Polymode
-
-## Conventions de code
-
-- Accolades **Allman** (l'accolade ouvrante seule sur sa ligne).
-- Indentation par **tabulations**.
